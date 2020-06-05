@@ -1,0 +1,43 @@
+layers:
+	- name: Background
+	  type: Renderable
+	  tiles:
+		- path: ./resources/images/Sprite-002.png
+		  left: 0
+		  top: 0 
+		  width: 31
+		  height: 31
+		  position: {x: 800, y: 100}
+		- path: ./resources/images/Sprite-002.png
+		  left: 0
+		  top: 0 
+		  width: 31
+		  height: 31
+		  position: {x: 400, y: 100}
+		- path: ./resources/images/Sprite-002.png
+		  left: 0
+		  top: 0 
+		  width: 31
+		  height: 31
+		  position: {x: 600, y: 100}
+	- name: Background
+	  type: Renderable
+	  tiles:
+		- path: ./resources/images/Sprite-002.png
+		  left: 0
+		  top: 0 
+		  width: 31
+		  height: 31
+		  position: {x: 200, y: 100}
+		- path: ./resources/images/Sprite-002.png
+		  left: 0
+		  top: 0 
+		  width: 31
+		  height: 31
+		  position: {x: 300, y: 100}
+		- path: ./resources/images/Sprite-002.png
+		  left: 0
+		  top: 0 
+		  width: 31
+		  height: 31
+		  position: {x: 700, y: 100}
